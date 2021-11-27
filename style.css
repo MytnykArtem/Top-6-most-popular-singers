@@ -1,0 +1,36 @@
+h3 { 
+    text-align: center; color: black;
+}
+h1 {
+    text-align: center;
+}
+.center {
+    text-align:;
+}
+img {
+    text-align: center;
+}
+div {
+    text-align: center; 
+}
+.Top {
+    display: block;
+    text-align: right;
+}
+body {
+    background:rgb(153, 255, 0);
+}
+table {
+    border:1px rgb(0, 0, 0);
+}
+table {
+border-collapse: collapse;
+}
+td{
+    border:1px solid rgb(0, 0, 0);
+    background-color:rgb(94, 255, 0);
+}
+th{
+    border:1px solid rgb(0, 0, 0);
+    background-color:rgb(94, 255, 0);
+}
